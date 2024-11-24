@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #edf1f4;
+  background: #E5E4E2;
 }
 
 .calculator {
@@ -19,6 +19,7 @@ body {
   width: 340px;
   padding: 20px;
   border-radius: 20px;
+  background: #e6e6e6;
   box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.1), -15px -15px 20px #fffb;
 }
 
